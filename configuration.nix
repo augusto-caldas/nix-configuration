@@ -72,7 +72,7 @@ in {
         system = "apc@router";
         powerValue = 1;
         user = "admin";
-        passwordFile = "/home/lakituen/secrets/ups-pass.txt";
+        passwordFile = "/home/lakituen/.secrets/ups-pass.txt";
         type = "secondary";
       };
 
